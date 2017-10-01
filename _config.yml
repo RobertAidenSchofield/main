@@ -1,6 +1,6 @@
 title: Robert Schofield
 description: #
-baseurl: "/monday" # the subpath of your site, e.g. /blog
+baseurl: "/main" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
