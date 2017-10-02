@@ -8,7 +8,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Robert Schofield
 tagline: Developer
-about-description: Full time CS student at Florida International University. Fluent in Java, C, HTML/CSS, PHP, SQL, and Python. # Add Discription
+about-description: Full time Computer Science student at Florida International University. Fluent in Java, C, HTML/CSS, PHP, SQL, and Python. # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
