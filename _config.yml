@@ -3,7 +3,7 @@ description: #
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "robertaidenschofield.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
-blog_theme: light # Or use dark
+blog_theme: dark # Or use dark
 
 # Profile information
 name: Robert Schofield
